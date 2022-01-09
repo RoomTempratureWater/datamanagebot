@@ -35,15 +35,12 @@ parso==0.7.1
 pickleshare==0.7.5
 Pillow==8.0.0
 prompt-toolkit==3.0.8
-pygame==1.9.6
 Pygments==2.7.1
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
 Quandl==3.5.0
 requests==2.24.0
-scikit-learn==0.23.1
-scipy==1.5.0
 selenium==3.141.0
 six==1.15.0
 soupsieve==2.0.1
