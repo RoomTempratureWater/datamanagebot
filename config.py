@@ -1,5 +1,5 @@
 TOKEN = '5076017527:AAGxIorWO7dn-fJ46JKnLs8SoN2OwqsLSxc'
-HEROKU = 'https://6a22-182-237-154-192.ngrok.io'
+HEROKU = 'https://telegram-managment-bot.herokuapp.com/'
 BASE_TELEGRAM_URL = 'https://api.telegram.org/bot{}'.format(TOKEN)
 WEBHOOK_ENDPOINT = '{}/webhook'.format(HEROKU)
 TELEGRAM_INIT_WEBHOOK_URL = '{}/setWebhook?url={}'.format(BASE_TELEGRAM_URL, WEBHOOK_ENDPOINT)
