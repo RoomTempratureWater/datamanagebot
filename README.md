@@ -1,5 +1,6 @@
 # SendHelp Bot
-basic bot using flask framework
+Telegram bot Using flask and Python with HERE maps api for food and NASA APOD api for daily space images!
+(Currently down)
 
 # Commands
 /hello
